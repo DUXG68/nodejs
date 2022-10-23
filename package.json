@@ -1,0 +1,30 @@
+ {
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DUXG68/nodejs.git"
+  },
+  "keywords": [
+    "f8",
+    "blog",
+    "f8",
+    "node",
+    "nodejs"
+  ],
+  "author": "duxg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DUXG68/nodejs/issues"
+  },
+  "homepage": "https://github.com/DUXG68/nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
